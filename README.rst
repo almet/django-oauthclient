@@ -1,6 +1,9 @@
 Django OAuth Client Application
 ===============================
 
+Credits:
+    This application was forked from http://code.welldev.org/django-oauth/wiki/Home
+
 This application provides a simple way to setup a tree-legged OAuth 
 authentication for django.
 
